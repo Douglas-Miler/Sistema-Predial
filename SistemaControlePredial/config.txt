@@ -1,0 +1,3 @@
+#Configuração do Mysql - Usuário Senha
+ root alunos 
+#Fim Configuração
