@@ -3,7 +3,7 @@
 ## Preparando-se para acessar o Sistema...
 Baixe o arquivo *assets.zip*, pois nele estão localizados o código *.sql* do banco, uma relação de usuários e senhas, e o arquivo executável *.jar*.
 
-Execute o arquivo .sql que está localizado na pasta **banco_de_dados** para que seja criado o banco;
+Execute o arquivo .sql que está localizado na pasta **banco_de_dados** para que seja criado o banco.
 
 Acesse a pasta **executavel** e abra o arquivo *config.txt*. Neste arquivo apague o que está escrito na segunda linha ( usuario senha) 
 e digite o usuário e senha do seu Banco de Dados da seguinte forma: (espaço)usuário(espaço)senha.
